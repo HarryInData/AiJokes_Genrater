@@ -8,3 +8,4 @@ else:
         else :
             print("It is a prime number")
 print("Thankyou ")
+print("Have a Nice Day")
